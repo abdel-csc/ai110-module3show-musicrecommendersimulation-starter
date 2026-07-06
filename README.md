@@ -124,7 +124,7 @@ Bias showed up in an unexpected place, not in the algorithm itself, but in
 the data. Rock and jazz fans got poor recommendations simply because those 
 genres had fewer songs in the catalog. In a real platform serving millions of 
 users, that kind of imbalance could systematically disadvantage listeners whose 
-tastes don't match the majority of the dataset.
+tastes don't match the majority of the dataset. This project teaches you a real world schema.
 ## Screenshots
 
 ### Phase 3: Default Profile Run
